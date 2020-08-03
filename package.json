@@ -1,0 +1,17 @@
+{
+  "name": "minimal_webpack_repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ramakrishna <ramakrishna@mindtickle.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn webpack-dev-server"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "query-string": "^6.13.1",
+    "webpack": "^5.0.0-beta.22",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
